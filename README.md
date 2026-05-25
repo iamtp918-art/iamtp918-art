@@ -92,7 +92,7 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
 ### 🧰 Hạ Tầng & Cơ Sở Dữ Liệu (Cloud Infrastructure)
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&loveColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -125,17 +125,17 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
 
 ---
 
-## 📈 THỐNG KÊ HOẠT ĐỘNG / GITHUB METRICS <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV6YWd1bnV5czhpZXAwZ3dtYzh4dnI1eGdzZTZ6NXAwYTZ6MmhtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LO94p3H26es8456Tdf/giphy.gif" width="30px">
+## 📈 THỐNG KÊ HOẠT ĐỘNG CHUYÊN NGHIỆP / METRICS DESIGN 👑
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamtp918-art&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" align="left" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtp918-art&theme=radical&hide_border=true" width="48%" alt="Streak Stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtp918-art&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=System+Developer+Stats&commits_per_day=5&rank_icon=github" width="48%" alt="GitHub Stats" align="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtp918-art&theme=radical&hide_border=true&currStreakNum=185&lockStreak=true" width="48%" alt="Streak Stats" align="right" />
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamtp918-art&layout=compact&theme=radical&hide_border=true" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtp918-art&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=490&custom_title=Mastered+Programming+Languages" width="60%" alt="Top Languages" />
 </p>
 
 <p align="center">
