@@ -68,7 +68,7 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin_Gonic-008080?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
@@ -100,4 +100,76 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
 </p>
 
 <p align="right">
-  <img src="https
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzA2czN3cmQ2cmgwd2F6M2h5dG9ubzM0dzg4bnExM2g1dnFsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbdZp28wex0fA6ZpdC/giphy.gif" width="90px" alt="Cute Robot">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa669-f069-4057-ae39-dbf2ee123ee7.gif" width="100%">
+</p>
+
+---
+
+## 🤖 NỀN TẢNG CHUYÊN SÂU CHUYÊN NGHIỆP / DETAILS & ECOSYSTEM
+
+### 🧠 Tích Hợp Trí Tuệ Nhân Tạo / AI Ecosystem
+* **Core AI Agents:** Thiết kế và tối ưu cấu trúc AI Agent có khả năng tự động xử lý và điều phối các tác vụ kinh doanh, vận hành theo kịch bản thông minh.
+* **API Integration:** Xây dựng cổng gateway tốc độ cao, tích hợp mượt mà API của Google Gemini và OpenAI ChatGPT với cơ chế xử lý hàng đợi tối ưu.
+
+### ⚙️ Hệ Thống MMO & Automation / MMO Toolset
+* **Browser Automation:** Thành thạo phát triển các công cụ multi-threaded (Node.js, Golang, Python) điều khiển antidetect browsers, tối ưu hóa phần cứng trên VPS lớn.
+* **Proxy & Account Farming:** Cấu hình hệ thống proxy dân cư xoay vòng, lọc IMAP/POP3 tự động phục vụ các kiến trúc nuôi tài khoản diện rộng chống quét.
+
+### 🌐 Quản Trị Hệ Thống / System Architecture
+* **Cloud Infrastructure:** Thiết lập cụm server hiệu năng cao trên Google Cloud (Singapore Region) kết hợp Cloudflare Tunnels để bảo mật tuyệt đối kiến trúc lõi.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa669-f069-4057-ae39-dbf2ee123ee7.gif" width="100%">
+</p>
+
+---
+
+## 📈 THỐNG KÊ HOẠT ĐỘNG CHUYÊN NGHIỆP / METRICS DESIGN 👑
+
+### 💻 Mastered Programming Languages
+
+| Language | Proficiency Level |
+| :--- | :--- |
+| **Go (Golang)** | ![Go](https://geps.dev/progress/95?text=35.4%25) |
+| **Python** | ![Python](https://geps.dev/progress/92?text=25.7%25) |
+| **TypeScript / JavaScript** | ![TS](https://geps.dev/progress/90?text=22.3%25) |
+| **C++** | ![C++](https://geps.dev/progress/85?text=18.1%25) |
+| **Java** | ![Java](https://geps.dev/progress/80?text=7.8%25) |
+
+<br>
+
+### ⚡ Core Developer Statistics
+* **Rank:** `S+ Premium Developer`
+* **Total Commits:** `3,850+ Commits`
+* **Total Pull Requests:** `75+ PRs`
+* **System Code Quality:** `A+ Certified`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa669-f069-4057-ae39-dbf2ee123ee7.gif" width="100%">
+</p>
+
+---
+
+## 🤝 THÔNG TIN LIÊN HỆ CHI TIẾT / CONNECT WITH ME
+
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6YnVwY2I1Nms0ZHp3N2Z4dWQ1YnN6YmI0b3d6OHV5eXBtNHI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px" alt="Cat on Server" align="right">
+</p>
+
+Nếu bạn có nhu cầu tối ưu hạ tầng, thiết kế giải pháp automation quy mô lớn hoặc hợp tác dự án công nghệ, hãy liên hệ trực tiếp qua các cổng thông tin chính thức dưới đây:
+
+* 🏢 **Chức vụ:** Senior System Engineer / Technology Architecture Consultant
+- 📧 **Email Trực Tiếp:** [devtanphat@gmail.com](mailto:devtanphat@gmail.com)
+- 🌐 **Hệ Sinh Thái Website:** [devtanphat.site](https://devtanphat.site)
+- 💬 **Zalo / Telegram:** Hỗ trợ xử lý lỗ hổng bảo mật và tư vấn kiến trúc 24/7
+- 🕒 **Giờ làm việc:** 08:00 AM – 06:00 PM (ICT)
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
