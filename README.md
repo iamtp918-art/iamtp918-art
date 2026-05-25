@@ -89,7 +89,7 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
   <img src="https://img.shields.io/badge/Autonomous_Workflows-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### 🧰 Hạ Tầng & Cơ Sở Dữ Liệu (Cloud Infrastructure)
+### 🧰 Hạ Tầng & Cơ Sở Dữ Lyệu (Cloud Infrastructure)
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -128,14 +128,14 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
 ## 📈 THỐNG KÊ HOẠT ĐỘNG CHUYÊN NGHIỆP / METRICS DESIGN 👑
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtp918-art&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=System+Developer+Stats&commits_per_day=5&rank_icon=github" width="48%" alt="GitHub Stats" align="left" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtp918-art&theme=radical&hide_border=true&currStreakNum=185&lockStreak=true" width="48%" alt="Streak Stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtp918-art&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=System+Developer+Stats&rank_icon=github" width="48%" alt="GitHub Stats" align="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtp918-art&theme=radical&hide_border=true" width="48%" alt="Streak Stats" align="right" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtp918-art&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=490&custom_title=Mastered+Programming+Languages" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtp918-art&layout=donut&theme=radical&hide_border=true&langs_count=8&card_width=490&custom_title=Mastered+Programming+Languages" width="65%" alt="Top Languages" />
 </p>
 
 <p align="center">
