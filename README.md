@@ -68,7 +68,7 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin_Gonic-008080?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
@@ -89,7 +89,7 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
   <img src="https://img.shields.io/badge/Autonomous_Workflows-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### 🧰 Hạ Tầng & Cơ Sở Dữ Lyệu (Cloud Infrastructure)
+### 🧰 Hạ Tầng & Cơ Sở Dữ Liệu (Cloud Infrastructure)
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -100,64 +100,4 @@ Chào mừng các nhà phát triển, đối tác và doanh nghiệp ghé thăm!
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzA2czN3cmQ2cmgwd2F6M2h5dG9ubzM0dzg4bnExM2g1dnFsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbdZp28wex0fA6ZpdC/giphy.gif" width="90px" alt="Cute Robot">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa669-f069-4057-ae39-dbf2ee123ee7.gif" width="100%">
-</p>
-
----
-
-## 🤖 NỀN TẢNG CHUYÊN SÂU / ADVANCED ECOSYSTEM
-
-### 🧠 Tích Hợp Trí Tuệ Nhân Tạo / AI Ecosystem
-* Phát triển và tích hợp hệ thống Core AI Agents tự động hóa quy trình nghiệp vụ phức tạp.
-* Triển khai cổng API chuyên sâu kết nối các mô hình ngôn ngữ lớn tối ưu hóa tốc độ phản hồi thời gian thực.
-
-### ⚙️ Hệ Thống MMO & Automation / MMO Toolset
-* Xây dựng cấu trúc giả lập trình duyệt quy mô lớn phục vụ các chiến dịch Account Farming chuyên sâu.
-* Thiết lập hệ thống định tuyến, quản lý và xoay vòng Residential Proxies bảo mật cao, chống các cơ chế chặn lọc nghiêm ngặt nhất.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa669-f069-4057-ae39-dbf2ee123ee7.gif" width="100%">
-</p>
-
----
-
-## 📈 THỐNG KÊ HOẠT ĐỘNG CHUYÊN NGHIỆP / METRICS DESIGN 👑
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtp918-art&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=System+Developer+Stats&rank_icon=github" width="48%" alt="GitHub Stats" align="left" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtp918-art&theme=radical&hide_border=true" width="48%" alt="Streak Stats" align="right" />
-</p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtp918-art&layout=donut&theme=radical&hide_border=true&langs_count=8&card_width=490&custom_title=Mastered+Programming+Languages" width="65%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa669-f069-4057-ae39-dbf2ee123ee7.gif" width="100%">
-</p>
-
----
-
-## 🤝 LIÊN HỆ & KẾT NỐI / CONNECT WITH ME
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6YnVwY2I1Nms0ZHp3N2Z4dWQ1YnN6YmI0b3d6OHV5eXBtNHI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px" alt="Cat on Server" align="right">
-</p>
-
-Nếu bạn có nhu cầu tối ưu hạ tầng chuyên sâu, vận hành các giải pháp automation bùng nổ, hoặc xây dựng hệ thống tích hợp AI chuẩn doanh nghiệp:
-
-- 📧 **Email:** [devtanphat@gmail.com](mailto:devtanphat@gmail.com)
-- 🌐 **Website:** [devtanphat.site](https://devtanphat.site)
-- 💼 **LinkedIn:** [custom badge](#)
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
+  <img src="https
